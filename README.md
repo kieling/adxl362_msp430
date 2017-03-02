@@ -5,5 +5,5 @@ Pins and clock configuration can be changed on the adxl_362.h. <br>
 
 Handles the SPI configuration and implements functions to r/w. 
 
-- Tested only using the CCSv6 environment
-- Make sure you have the driverlib for your device properly configured in the project
+- Only tested using the CCSv6 environment
+- Make sure you have the driverlib for your device properly configured in the CCS project
